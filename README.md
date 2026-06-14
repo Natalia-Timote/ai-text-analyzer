@@ -82,13 +82,13 @@ O projeto aplica:
 
 Interface interativa para testar os endpoints diretamente pelo navegador.
 
-<img src="/public/swagger-ui.png" alt="Documentação Swagger UI" width="500"/>
+<img src="/public/swagger-ui.png" alt="Documentação Swagger UI" width="600"/>
 
 **✅ Resultado da análise**
 
 Resposta da API com sentimento, score, palavras-chave e resumo.
 
-<img src="/public/analyze-response.png" alt="Resposta do endpoint /analyze" width="500"/>
+<img src="/public/analyze-response.png" alt="Resposta do endpoint /analyze" width="600"/>
 
 ## 👩‍💻 Sobre a Autora
 
